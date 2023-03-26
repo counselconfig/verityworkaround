@@ -1,0 +1,19 @@
+﻿Build started...
+1>------ Build started: Project: VerityWebApp, Configuration: Debug Any CPU ------
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(17,27,17,30): warning CS0168: The variable 'con' is declared but never used
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(26,13,26,16): error CS0103: The name 'con' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(27,13,27,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(28,13,28,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(29,13,29,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(29,72,29,80): error CS0103: The name 'cboPiece' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(30,13,30,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(30,72,30,81): error CS0103: The name 'Txtmaxref' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(31,13,31,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(31,69,31,79): error CS0103: The name 'TxtEditSet' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(32,13,32,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(32,68,32,71): error CS0103: The name 'con' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(33,13,33,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(34,13,34,16): error CS0103: The name 'con' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(35,13,35,16): error CS0103: The name 'cmd' does not exist in the current context
+1>C:\VerityApp\VerityWebApp\Default.aspx.cs(37,13,37,16): error CS0103: The name 'con' does not exist in the current context
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

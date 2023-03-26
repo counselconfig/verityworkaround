@@ -1,0 +1,363 @@
+C:\Temp\verity\Verity2.0\bin\VerityWebApp.dll.config
+C:\Temp\verity\Verity2.0\bin\VerityWebApp.dll
+C:\Temp\verity\Verity2.0\bin\VerityWebApp.pdb
+C:\Temp\verity\Verity2.0\bin\roslyn\csc.exe
+C:\Temp\verity\Verity2.0\bin\roslyn\csc.exe.config
+C:\Temp\verity\Verity2.0\bin\roslyn\csc.rsp
+C:\Temp\verity\Verity2.0\bin\roslyn\csi.exe
+C:\Temp\verity\Verity2.0\bin\roslyn\csi.exe.config
+C:\Temp\verity\Verity2.0\bin\roslyn\csi.rsp
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\verity\Verity2.0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\roslyn
+C:\Temp\verity\Verity2.0\bin\roslyn\System.AppContext.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Console.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Globalization.Calendars.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.IO.Compression.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.IO.FileSystem.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Net.Http.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Net.Sockets.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.ValueTuple.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Xml.XPath.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Temp\verity\Verity2.0\bin\roslyn\vbc.exe
+C:\Temp\verity\Verity2.0\bin\roslyn\vbc.exe.config
+C:\Temp\verity\Verity2.0\bin\roslyn\vbc.rsp
+C:\Temp\verity\Verity2.0\bin\roslyn\VBCSCompiler.exe
+C:\Temp\verity\Verity2.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\verity\Verity2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\verity\Verity2.0\bin\Newtonsoft.Json.dll
+C:\Temp\verity\Verity2.0\bin\System.Web.Optimization.xml
+C:\Temp\verity\Verity2.0\bin\Antlr3.Runtime.pdb
+C:\Temp\verity\Verity2.0\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Temp\verity\Verity2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\verity\Verity2.0\obj\Debug\VerityWebApp.csproj.AssemblyReference.cache
+C:\Temp\verity\Verity2.0\obj\Debug\VerityWebApp.csproj.CoreCompileInputs.cache
+C:\Temp\verity\Verity2.0\obj\Debug\VerityWebApp.csproj.CopyComplete
+C:\Temp\verity\Verity2.0\obj\Debug\VerityWebApp.dll
+C:\Temp\verity\Verity2.0\obj\Debug\VerityWebApp.pdb
+C:\Temp\verity\V\bin\VerityWebApp.dll.config
+C:\Temp\verity\V\bin\VerityWebApp.dll
+C:\Temp\verity\V\bin\VerityWebApp.pdb
+C:\Temp\verity\V\bin\roslyn\csc.exe
+C:\Temp\verity\V\bin\roslyn\csc.exe.config
+C:\Temp\verity\V\bin\roslyn\csc.rsp
+C:\Temp\verity\V\bin\roslyn\csi.exe
+C:\Temp\verity\V\bin\roslyn\csi.exe.config
+C:\Temp\verity\V\bin\roslyn\csi.rsp
+C:\Temp\verity\V\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\verity\V\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Temp\verity\V\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Temp\verity\V\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\verity\V\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Temp\verity\V\bin\roslyn\roslyn
+C:\Temp\verity\V\bin\roslyn\System.AppContext.dll
+C:\Temp\verity\V\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\verity\V\bin\roslyn\System.Console.dll
+C:\Temp\verity\V\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Temp\verity\V\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Temp\verity\V\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Temp\verity\V\bin\roslyn\System.Globalization.Calendars.dll
+C:\Temp\verity\V\bin\roslyn\System.IO.Compression.dll
+C:\Temp\verity\V\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Temp\verity\V\bin\roslyn\System.IO.FileSystem.dll
+C:\Temp\verity\V\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Temp\verity\V\bin\roslyn\System.Net.Http.dll
+C:\Temp\verity\V\bin\roslyn\System.Net.Sockets.dll
+C:\Temp\verity\V\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\verity\V\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Temp\verity\V\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Temp\verity\V\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Temp\verity\V\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Temp\verity\V\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Temp\verity\V\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Temp\verity\V\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Temp\verity\V\bin\roslyn\System.ValueTuple.dll
+C:\Temp\verity\V\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Temp\verity\V\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Temp\verity\V\bin\roslyn\System.Xml.XPath.dll
+C:\Temp\verity\V\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Temp\verity\V\bin\roslyn\vbc.exe
+C:\Temp\verity\V\bin\roslyn\vbc.exe.config
+C:\Temp\verity\V\bin\roslyn\vbc.rsp
+C:\Temp\verity\V\bin\roslyn\VBCSCompiler.exe
+C:\Temp\verity\V\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\verity\V\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\verity\V\bin\Newtonsoft.Json.dll
+C:\Temp\verity\V\bin\System.Web.Optimization.xml
+C:\Temp\verity\V\bin\Antlr3.Runtime.pdb
+C:\Temp\verity\V\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Temp\verity\V\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\verity\V\obj\Debug\VerityWebApp.csproj.AssemblyReference.cache
+C:\Temp\verity\V\obj\Debug\VerityWebApp.csproj.CoreCompileInputs.cache
+C:\Temp\verity\V\obj\Debug\VerityWebApp.csproj.CopyComplete
+C:\Temp\verity\V\obj\Debug\VerityWebApp.dll
+C:\Temp\verity\V\obj\Debug\VerityWebApp.pdb
+C:\Temp\verity\V\bin\Antlr3.Runtime.dll
+C:\Temp\verity\V\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Temp\verity\V\bin\AspNet.ScriptManager.jQuery.dll
+C:\Temp\verity\V\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Temp\verity\V\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Temp\verity\V\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Temp\verity\V\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Temp\verity\V\bin\Microsoft.Web.Infrastructure.dll
+C:\Temp\verity\V\bin\System.Web.Optimization.dll
+C:\Temp\verity\V\bin\WebGrease.dll
+C:\Temp\verity\V\bin\Newtonsoft.Json.xml
+Y:\Verity 2.0\bin\VerityWebApp.dll.config
+Y:\Verity 2.0\bin\VerityWebApp.dll
+Y:\Verity 2.0\bin\VerityWebApp.pdb
+Y:\Verity 2.0\bin\roslyn\csc.exe
+Y:\Verity 2.0\bin\roslyn\csc.exe.config
+Y:\Verity 2.0\bin\roslyn\csc.rsp
+Y:\Verity 2.0\bin\roslyn\csi.exe
+Y:\Verity 2.0\bin\roslyn\csi.exe.config
+Y:\Verity 2.0\bin\roslyn\csi.rsp
+Y:\Verity 2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\Verity 2.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\Verity 2.0\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\Verity 2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\Verity 2.0\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\Verity 2.0\bin\roslyn\System.AppContext.dll
+Y:\Verity 2.0\bin\roslyn\System.Collections.Immutable.dll
+Y:\Verity 2.0\bin\roslyn\System.Console.dll
+Y:\Verity 2.0\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\Verity 2.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\Verity 2.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\Verity 2.0\bin\roslyn\System.Globalization.Calendars.dll
+Y:\Verity 2.0\bin\roslyn\System.IO.Compression.dll
+Y:\Verity 2.0\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\Verity 2.0\bin\roslyn\System.IO.FileSystem.dll
+Y:\Verity 2.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\Verity 2.0\bin\roslyn\System.Net.Http.dll
+Y:\Verity 2.0\bin\roslyn\System.Net.Sockets.dll
+Y:\Verity 2.0\bin\roslyn\System.Reflection.Metadata.dll
+Y:\Verity 2.0\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\Verity 2.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\Verity 2.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\Verity 2.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\Verity 2.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\Verity 2.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\Verity 2.0\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\Verity 2.0\bin\roslyn\System.ValueTuple.dll
+Y:\Verity 2.0\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\Verity 2.0\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\Verity 2.0\bin\roslyn\System.Xml.XPath.dll
+Y:\Verity 2.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\Verity 2.0\bin\roslyn\vbc.exe
+Y:\Verity 2.0\bin\roslyn\vbc.exe.config
+Y:\Verity 2.0\bin\roslyn\vbc.rsp
+Y:\Verity 2.0\bin\roslyn\VBCSCompiler.exe
+Y:\Verity 2.0\bin\roslyn\VBCSCompiler.exe.config
+Y:\Verity 2.0\bin\Antlr3.Runtime.dll
+Y:\Verity 2.0\bin\AspNet.ScriptManager.bootstrap.dll
+Y:\Verity 2.0\bin\AspNet.ScriptManager.jQuery.dll
+Y:\Verity 2.0\bin\Microsoft.AspNet.FriendlyUrls.dll
+Y:\Verity 2.0\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+Y:\Verity 2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\Verity 2.0\bin\Microsoft.ScriptManager.MSAjax.dll
+Y:\Verity 2.0\bin\Microsoft.ScriptManager.WebForms.dll
+Y:\Verity 2.0\bin\Microsoft.Web.Infrastructure.dll
+Y:\Verity 2.0\bin\Newtonsoft.Json.dll
+Y:\Verity 2.0\bin\System.Web.Optimization.dll
+Y:\Verity 2.0\bin\WebGrease.dll
+Y:\Verity 2.0\bin\System.Web.Optimization.xml
+Y:\Verity 2.0\bin\Newtonsoft.Json.xml
+Y:\Verity 2.0\bin\Antlr3.Runtime.pdb
+Y:\Verity 2.0\bin\Microsoft.AspNet.FriendlyUrls.xml
+Y:\Verity 2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\Verity 2.0\obj\Debug\VerityWebApp.csproj.CoreCompileInputs.cache
+Y:\Verity 2.0\obj\Debug\VerityWebApp.csproj.CopyComplete
+Y:\Verity 2.0\obj\Debug\VerityWebApp.dll
+Y:\Verity 2.0\obj\Debug\VerityWebApp.pdb
+Y:\Verity 2.0 -alphanumeric\bin\VerityWebApp.dll.config
+Y:\Verity 2.0 -alphanumeric\bin\VerityWebApp.dll
+Y:\Verity 2.0 -alphanumeric\bin\VerityWebApp.pdb
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\csc.exe
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\csc.exe.config
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\csc.rsp
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\csi.exe
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\csi.exe.config
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\csi.rsp
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\roslyn
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.AppContext.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Collections.Immutable.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Console.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Globalization.Calendars.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.IO.Compression.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.IO.FileSystem.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Net.Http.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Net.Sockets.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Reflection.Metadata.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.ValueTuple.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Xml.XPath.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\vbc.exe
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\vbc.exe.config
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\vbc.rsp
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\VBCSCompiler.exe
+Y:\Verity 2.0 -alphanumeric\bin\roslyn\VBCSCompiler.exe.config
+Y:\Verity 2.0 -alphanumeric\bin\Antlr3.Runtime.dll
+Y:\Verity 2.0 -alphanumeric\bin\AspNet.ScriptManager.bootstrap.dll
+Y:\Verity 2.0 -alphanumeric\bin\AspNet.ScriptManager.jQuery.dll
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.AspNet.FriendlyUrls.dll
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.ScriptManager.MSAjax.dll
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.ScriptManager.WebForms.dll
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.Web.Infrastructure.dll
+Y:\Verity 2.0 -alphanumeric\bin\Newtonsoft.Json.dll
+Y:\Verity 2.0 -alphanumeric\bin\System.Web.Optimization.dll
+Y:\Verity 2.0 -alphanumeric\bin\WebGrease.dll
+Y:\Verity 2.0 -alphanumeric\bin\System.Web.Optimization.xml
+Y:\Verity 2.0 -alphanumeric\bin\Newtonsoft.Json.xml
+Y:\Verity 2.0 -alphanumeric\bin\Antlr3.Runtime.pdb
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.AspNet.FriendlyUrls.xml
+Y:\Verity 2.0 -alphanumeric\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\Verity 2.0 -alphanumeric\obj\Debug\VerityWebApp.csproj.AssemblyReference.cache
+Y:\Verity 2.0 -alphanumeric\obj\Debug\VerityWebApp.csproj.CoreCompileInputs.cache
+Y:\Verity 2.0 -alphanumeric\obj\Debug\VerityWebApp.csproj.CopyComplete
+Y:\Verity 2.0 -alphanumeric\obj\Debug\VerityWebApp.dll
+Y:\Verity 2.0 -alphanumeric\obj\Debug\VerityWebApp.pdb
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\VerityWebApp.dll.config
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\VerityWebApp.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\VerityWebApp.pdb
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\csc.exe
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\csc.exe.config
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\csc.rsp
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\csi.exe
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\csi.exe.config
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\csi.rsp
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.Managed.Core.targets
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\roslyn
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.AppContext.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Collections.Immutable.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Console.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Globalization.Calendars.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.IO.Compression.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.IO.FileSystem.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Net.Http.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Net.Sockets.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Reflection.Metadata.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.ValueTuple.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Xml.ReaderWriter.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Xml.XmlDocument.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Xml.XPath.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\vbc.exe
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\vbc.exe.config
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\vbc.rsp
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\VBCSCompiler.exe
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\roslyn\VBCSCompiler.exe.config
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Antlr3.Runtime.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\AspNet.ScriptManager.bootstrap.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\AspNet.ScriptManager.jQuery.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.ScriptManager.MSAjax.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.ScriptManager.WebForms.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.Web.Infrastructure.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Newtonsoft.Json.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\System.Web.Optimization.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\WebGrease.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\System.Web.Optimization.xml
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Newtonsoft.Json.xml
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Antlr3.Runtime.pdb
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\na-stor02\visualstudiocommunity$\Verity 2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\na-stor02\visualstudiocommunity$\Verity 2.0\obj\Debug\VerityWebApp.csproj.AssemblyReference.cache
+\\na-stor02\visualstudiocommunity$\Verity 2.0\obj\Debug\VerityWebApp.csproj.CoreCompileInputs.cache
+\\na-stor02\visualstudiocommunity$\Verity 2.0\obj\Debug\VerityWebApp.csproj.CopyComplete
+\\na-stor02\visualstudiocommunity$\Verity 2.0\obj\Debug\VerityWebApp.dll
+\\na-stor02\visualstudiocommunity$\Verity 2.0\obj\Debug\VerityWebApp.pdb
+Y:\Verity 2.0\obj\Debug\VerityWebApp.csproj.AssemblyReference.cache
